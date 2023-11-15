@@ -16,6 +16,12 @@ export default function Home() {
         <Link href="/markdown" className="hover:underline">
           Markdown Previewer
         </Link>
+        <a
+          className="hover:underline"
+          href="https://25-5-clock-dafex.vercel.app/"
+        >
+          25-5 Clock
+        </a>
       </div>
     </main>
   );
