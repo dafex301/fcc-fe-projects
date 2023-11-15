@@ -13,6 +13,9 @@ export default function Home() {
         <Link href="/quote" className="hover:underline">
           Quote Generator
         </Link>
+        <Link href="/markdown" className="hover:underline">
+          Markdown Previewer
+        </Link>
       </div>
     </main>
   );
