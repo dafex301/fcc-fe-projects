@@ -10,6 +10,9 @@ export default function Home() {
         <Link href="/drum" className="hover:underline">
           Drum Machine
         </Link>
+        <Link href="/quote" className="hover:underline">
+          Quote Generator
+        </Link>
       </div>
     </main>
   );
